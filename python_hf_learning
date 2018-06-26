@@ -1,1 +1,27 @@
+Chepter01:
+import modules from standard python library i.e. sys, datetime, datetime.date.isoformat, time, os, os.environ etc.
+one set of indented code is called 'suite"
+use "dir" to query an object example dir(random) will display all the attributes to be used with random
+asking interpreter for "help" example help(random.randint) - help on method randint in module random:
+randit(a, b) method of random.Random instance return random integer in range [a, b], including both end points.
 
+typing Alt-P when using Linux or Windows will display previous command typed in python shell prompt.
+typing Ctrl-P when using Mac OS will display previous command typed in python shell prompt.
+when importing a module i.e. import random, you need to remember to prefix the call to "randint" with the module name "random" and a dot i.e. "random.randint()"
+
+The "for" loop can be used when you know ahead of time, how many times you want your code to be repeated.
+If you don't know how many times your code need to be repeated ahead of time then you use "while" loop.
+
+
+Important Links:
+https://docs.python.org/3/library/index.html
+python community link for third party modules for python
+http://pypi.python.org
+
+
+
+Boolean operators compare statements and result in boolean values. There are three boolean operators:
+
+and, which checks if both the statements are True;
+or, which checks if at least one of the statements is True;
+not, which gives the opposite of the statement.
