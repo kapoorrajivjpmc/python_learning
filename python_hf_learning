@@ -27,7 +27,12 @@ data structures are not modules so don't have to import. They are always availab
 Lists are dynamic and can be changed (mutable-can grow or shrink on demand)
 Tuple are lists that can not be changed (immutable - fixed)
 Lists and Tuple follow a specific order. 
-Dictionary is an unordered data structure.
+Dictionary and Set are unordered data structure of unique objects.
+In dictionary each unique key has a value associated with it.
+dictionary can grow and shrink on demand like lists.
+objects stored in dictionary don't follow any order but you can make it follow an order.
+These 4 data structures cover 80% of the data types.
+
 
 
 
