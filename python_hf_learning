@@ -1,4 +1,4 @@
-Chepter01:
+Chapter01:
 import modules from standard python library i.e. sys, datetime, datetime.date.isoformat, time, os, os.environ etc.
 one set of indented code is called 'suite"
 use "dir" to query an object example dir(random) will display all the attributes to be used with random
@@ -18,6 +18,10 @@ https://docs.python.org/3/library/index.html
 python community link for third party modules for python
 http://pypi.python.org
 
+Chapter02:
+A variable takes on the type of the value assigned
+Everything in python (data values) is an object and any object can be assigned to a variable.
+Python has 4 built in data structures: list, tuple, disctionary and set that can be used to hold any collection of objects.
 
 
 Boolean operators compare statements and result in boolean values. There are three boolean operators:
