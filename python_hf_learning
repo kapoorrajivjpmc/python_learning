@@ -22,6 +22,13 @@ Chapter02:
 A variable takes on the type of the value assigned
 Everything in python (data values) is an object and any object can be assigned to a variable.
 Python has 4 built in data structures: list, tuple, disctionary and set that can be used to hold any collection of objects.
+data structures are not modules so don't have to import. They are always available to your code.
+
+Lists are dynamic and can be changed (mutable-can grow or shrink on demand)
+Tuple are lists that can not be changed (immutable - fixed)
+Lists and Tuple follow a specific order. 
+Dictionary is an unordered data structure.
+
 
 
 Boolean operators compare statements and result in boolean values. There are three boolean operators:
